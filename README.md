@@ -160,4 +160,3 @@ The live feed displays real-time overlays:
   * `ALERT: Driver Distracted (Gaze Deviation)`
   * `ALERT: Drowsiness detected (EAR high)`
   * `ALERT: Drowsiness Detected (PERCLOS)`
-```
